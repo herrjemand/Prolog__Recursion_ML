@@ -1,4 +1,11 @@
-Prolog_Recursion_ML
+Prolog_Recursion_ML 
 ===================
+WARNING! DO NOT TRY THIS AT HOME! LOGIC
+LANGUAGES MAY HURT 
+OR FATALY DAMAGE 
+YOUR BRAIN, WHAT
+WILL LEAD TO FULL
+TIME COMA - COLLED
+PROGRAMMER!
 
-Prolog_Multi-layer recursion
+Multi-layer recursion using Prolog. 
