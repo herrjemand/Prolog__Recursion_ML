@@ -1,6 +1,6 @@
 %editor food.prolog
 	 go :- reconsult('data.prolog'),
-		/*trace,/* Uncomment for SBS debug.*/
+		/*trace, Uncomment for SBS debug.*/
 		 first(FIRST_N,FIRST_L),
 		 open('dinner_vars.txt',write, N),close(N),
 		 for_f(FIRST_N,FIRST_L);
